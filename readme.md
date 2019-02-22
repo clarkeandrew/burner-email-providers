@@ -11,6 +11,15 @@ Please send a PR with any new ones you find.
 ### Free
 
 * [Disposable](https://github.com/0x19/disposable)
+* [Disposable Email Detector](https://www.disposable-email-detector.com)
 
+## Libraries
 
+### Elixir
+
+* [Burnex](https://github.com/Betree/burnex)
+
+### Go
+
+* [DED](https://github.com/namreg/ded)
 
